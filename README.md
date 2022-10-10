@@ -4,9 +4,9 @@
 This project was done for a health startup on compacting against the spread of monkeypox viral infection. In May 2022, an ongoing outbreak of the viral disease monkeypox was confirmed, beginning with a cluster of cases discovered in the United Kingdom. The first confirmed case was traced to a person with travel links to Nigeria (where the disease is endemic) and was discovered on May 6, 2022. Fever, headache, muscle pains, swollen lymph nodes, and fatigue are the first symptoms.
 ## Data Cleaning
 After importing my data into Power Query, I verified its validity using column distribution, quality, and profile, looked for duplicates (which I didn't find), and eliminated any columns that weren't required for my study. I also checked that the data type of my columns was the appropriate one.
-## Data Analysis & Visualizations
+## Data Visualizations
 1. About 108 countries have been infected with the viral infection with 25,590 total cases, 23,270 confirmed cases, 1,685 suspected cases, and 350 discarded cases. 
-![Monkeypox Analysis-2](https://user-images.githubusercontent.com/115374063/194791089-f007e337-ec3a-4e5f-8b6c-d7c22f1b31e6.png)
+![Monkeypox Analysis-2](https://user-images.githubusercontent.com/115374063/194792261-0f9b971f-de8e-4ed9-9197-24af2813d502.jpg)
 2. United States in status made up 31.08% of total cases. Number for confirmed and discarded diverged the most when the Country was Spain, when confirmed were 4,114 higher than discarded.
 ![Monkeypox Analysis-3](https://user-images.githubusercontent.com/115374063/194791313-d2153463-33b7-4572-b985-02d3c7bb9d7c.png)
 3. Travellers accounted for 74.44% of Count of Travel history. This deduces that travellers are more likely to be infected when contacted with infected person![Monkeypox Analysis-5](https://user-images.githubusercontent.com/115374063/194791547-5fe1c3c3-6345-4810-aea8-5acd48faf8ad.png)
