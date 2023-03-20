@@ -5,7 +5,7 @@
 This project was done for a health startup on compacting against the spread of monkeypox viral infection. In May 2022, an ongoing outbreak of the viral disease monkeypox was confirmed, beginning with a cluster of cases discovered in the United Kingdom. The first confirmed case was traced to a person with travel links to Nigeria (where the disease is endemic) and was discovered on May 6, 2022. Fever, headache, muscle pains, swollen lymph nodes, and fatigue are the first symptoms.
 
 ## TECH STACK
-### Power Query and Microsoft Power BI
+Power Query and Microsoft Power BI
 
 ## Data Cleaning
 After importing my data into Power Query, I verified its validity using column distribution, quality, and profile, looked for duplicates (which I didn't find), and eliminated any columns that weren't required for my study. I also checked that the data type of my columns was the appropriate one.
